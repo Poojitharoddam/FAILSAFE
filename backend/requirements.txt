@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+joblib
+pydantic
+python-jose
+sqlalchemy
+psycopg2-binary
+xgboost
+shap
