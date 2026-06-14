@@ -140,6 +140,7 @@ The prediction system uses the following inputs:
 * Health Status
 * Absences
 * Extra Activities Participation
+* Guardian
 
 ---
 
@@ -158,7 +159,7 @@ Student is classified as:
 
 ### Performance
 
-* Accuracy: ~72%
+* Accuracy: ~81%
 * Explainability: SHAP
 
 ---
